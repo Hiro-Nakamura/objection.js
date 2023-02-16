@@ -62,7 +62,7 @@
   "types": "./typings/objection/index.d.ts",
   "dependencies": {
     "ajv": "^6.12.6",
-    "db-errors": "^0.2.3"
+    "db-errors": "github:Vincit/db-errors#master"
   },
   "peerDependencies": {
     "knex": "<0.95.0"
